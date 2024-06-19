@@ -1,16 +1,0 @@
-
-’
-java:S2095"JUse try-with-resources or close this "KafkaStreams" in a "finally" clause.(´û¢şÿÿÿÿ8Åôõ‚2J$65dcbaa9-cdc8-4365-a648-74f43d0b111b
-„
-java:S1854"ARemove this useless assignment to local variable "totalDistance".(Ô…¹¤8·Í†ö‚2J$ac781424-f3a9-489e-b645-df999ad94821
-ˆ
-java:S1854"@Remove this useless assignment to local variable "batteryLevel".(ÌÓ›±ùÿÿÿÿ8·Í†ö‚2J$adb2b500-d10b-4ddb-b22d-9a3c50f35309
-y
-java:S1481"1Remove this unused "batteryLevel" local variable.(ÌÓ›±ùÿÿÿÿ8¹Í†ö‚2J$f42c5f37-c692-4e0b-bc94-f39646b097f7
-u
-java:S1481"2Remove this unused "totalDistance" local variable.(Ô…¹¤8ºÍ†ö‚2J$77a6d352-8337-4988-b9f9-59d4da78a92b
-ƒ	java:S125'"<This block of commented-out lines of code should be removed.(—û›Üıÿÿÿÿ8†ˆ‚ö‚2J$030b6366-0e4c-40d2-bef2-ff395497f32b
-
-java:S1128"FRemove this unused import 'org.apache.kafka.streams.kstream.Produced'.(°óëüúÿÿÿÿ8¼Í†ö‚2J$fe7a4eae-b642-42d3-9904-c1932df15c21
-•
-java:S1128"SRemove this unused import 'org.springframework.kafka.support.serializer.JsonSerde'.(†—«;8¼Í†ö‚2J$87e11b45-b428-495b-8ec7-2c9dd974f9ab
