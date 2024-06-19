@@ -1,0 +1,14 @@
+
+‹
+java:S2095"JUse try-with-resources or close this "KafkaStreams" in a "finally" clause.(ÙêÜ°ûÿÿÿÿJ$7de4b8e2-510f-4bf0-bd95-0ea92238c55e
+ƒ
+java:S1128"@Remove this unused import 'org.apache.kafka.common.utils.Bytes'.(µµƒ†8Ã÷Ýˆƒ2J$56dba07c-9e20-4984-a39d-77c2b96196bc
+’
+java:S1128
+"JRemove this unused import 'org.apache.kafka.streams.kstream.Materialized'.(ÉüÌ•ýÿÿÿÿ8Ã÷Ýˆƒ2J$78227fa1-5bad-474f-9700-ae35070e24e1
+‹
+java:S1128"CRemove this unused import 'org.apache.kafka.streams.kstream.Named'.(Õ±º¡ýÿÿÿÿ8Ã÷Ýˆƒ2J$f0ee043a-b883-40c5-b623-bfc8f79217c2
+Ž
+java:S1128"FRemove this unused import 'org.apache.kafka.streams.kstream.Produced'.(°óëüúÿÿÿÿ8Ã÷Ýˆƒ2J$f0786b04-be55-471f-a7fd-a3a44503b07e
+‘
+java:S1128"IRemove this unused import 'org.apache.kafka.streams.state.KeyValueStore'.(ê”—Üþÿÿÿÿ8Ã÷Ýˆƒ2J$efb7208a-968d-4326-89b4-bb3a7df95af7
